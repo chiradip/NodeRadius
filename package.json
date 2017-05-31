@@ -1,0 +1,24 @@
+{
+  "name": "node-radius",
+  "version": "1.0.0",
+  "description": "NodeJS Radius Server ",
+  "main": "radius-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiradip/NodeRadius.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "radius"
+  ],
+  "author": "Chiradip Mandal",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/chiradip/NodeRadius/issues"
+  },
+  "homepage": "https://github.com/chiradip/NodeRadius#readme"
+}
